@@ -1,0 +1,5 @@
+port = 8888;
+val = 3 interval = 10;
+libfileen = /home/syswj/document/spell_correct4/data/liben.txt 
+libfilecn = /home/syswj/document/spell_correct4/data/libcn.txt
+cachefile = /home/syswj/document/spell_correct4/data/cache.txt;
