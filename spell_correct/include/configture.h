@@ -1,7 +1,7 @@
 #ifndef _CONFIGTURE_H_
 #define _CONFIGTURE_H_
 
-#include <echo/MutexLock.h>
+#include "MutexLock.h"
 #include "EchoServer.h"
 #include <fstream>
 #include <string>

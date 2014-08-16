@@ -8,7 +8,7 @@
 #include <queue>
 #include <utility>
 #include "mycache.h"
-#include <echo/MutexLock.h>
+#include "MutexLock.h"
 #include "CacheManage.h"
 #define ERR_EXIT(m) \
     do { \

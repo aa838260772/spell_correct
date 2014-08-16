@@ -3,7 +3,7 @@
 
 #include "mycache.h"
 #include <vector>
-#include <echo/MutexLock.h>
+#include "MutexLock.h"
 
 class CacheManage
 {

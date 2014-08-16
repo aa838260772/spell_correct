@@ -1,10 +1,10 @@
 #ifndef ECHO_TCP_SERVER_H
 #define ECHO_TCP_SERVER_H 
 
-#include <echo/TcpServer.h>
-#include <echo/ThreadPool.h>
-#include <echo/NonCopyable.h>
-#include <echo/TimerThread.h>
+#include "TcpServer.h"
+#include "ThreadPool.h"
+#include "NonCopyable.h"
+#include "TimerThread.h"
 #include "textquery.h"
 #include <fstream>
 #include <iostream>
